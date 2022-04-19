@@ -48,6 +48,7 @@ Solve: This gives you a scrambled Rubik's Cube. You win once it is solved.
 Practice: This presents you with 8 options - options 1-7 allow you to practice
     the standard beginner steps to solve a Rubik's Cube. Free play gives you
     a solved Rubik's Cube to play with.
+ 
 -------------------------------------------------------------------------------
 
 BUGS:
@@ -87,6 +88,10 @@ FILE EXPLANATIONS:
         This file is very similar to the button.py written in class by
         Professor Janet Davis. However, it uses images to make buttons
         instead of rectangles. This gives them much more customizability.
+        
+    graphics.py:
+        This file was provided in class and was written by John Zelle.
+        It was used to create the GUI.
         
 -------------------------------------------------------------------------------
  
