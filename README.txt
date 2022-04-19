@@ -1,8 +1,8 @@
 Below is a brief overview of my CS-167 final project: John Cuber X-Treme.
 The title is an inside joke that I have shared with my brother for several
 years. I used to always tell him that I was going to make a Rubik's Cube
-game and call it John Cuber X-Treme (just because it's such a ridiculous name).
-I finally have the ability to bring that joke to life!
+game and call it John Cuber X-Treme. After taking this computer science
+class, I finally have the ability to bring my vision to life!
 
 While I enjoy solving this Rubik's Cube, I believe it also serves as proof
 that the Rubik's Cube can be made more accessible. When I was younger,
@@ -19,6 +19,19 @@ in this project and throughout the semester.
 In addition, the background image I used throughout this project can be found
 here:
 wallpaperaccess.com/1280-x-720-cool
+
+-------------------------------------------------------------------------------
+
+POSSIBLE IMPROVEMENTS:
+After looking at this project after another semester of computer science, 
+there are a lot of changes I would make in the design of this project. If I
+were to come back to this, some of the first changes I would make would be:
+    1) Organizing the files
+    2) Focusing more on object oriented programming
+    3) Use a different GUI program than graphics.py
+    4) Working to improve accessibility - I could add an "undo move" button
+       and add color blind options, for example.
+    5) Make it easier to rotate the Rubik's Cube
 
 -------------------------------------------------------------------------------
 
@@ -50,6 +63,7 @@ CONTROLS:
     https://jperm.net/3x3/moves
 
 -------------------------------------------------------------------------------
+
 GAMEMODES:
 Solve: This gives you a scrambled Rubik's Cube. You win once it is solved.
 
