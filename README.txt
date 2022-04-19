@@ -4,6 +4,14 @@ years. I used to always tell him that I was going to make a Rubik's Cube
 game and call it John Cuber X-Treme (just because it's such a ridiculous name).
 I finally have the ability to bring that joke to life!
 
+While I enjoy solving this Rubik's Cube, I believe it also serves as proof
+that the Rubik's Cube can be made more accessible. When I was younger,
+I found that it was incredibly difficult to learn how to solve the Rubik's
+Cube. This is an interactive way to learn, and in addition, mistakes are
+not an issue as you can easily reset. This can also serve as a replacement
+to a physical Rubik's Cube if someone struggles to come by one for any
+reason.
+
 I would like to thank John Zelle for graphics.py and Professor
 Janet Davis for inspiring my Button class and for her help and guidance
 in this project and throughout the semester.
